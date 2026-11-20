@@ -1,3 +1,26 @@
+# 프롬프트
+
+## 제작 방향
+
+* Phase2_취업용_포트폴리오_PDF_제작.md (https://github.com/hyobokkim/jumpup-camp/blob/main/Phase2_%EC%B7%A8%EC%97%85%EC%9A%A9_%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4_PDF_%EC%A0%9C%EC%9E%91.md)
+* 조대표님 전주대_AI커리어점프업캠프_실습워크북.pptx -> 슬라이드 28페이지
+* 조대표님 포트폴리오.pptx
+
+
+## 자료
+
+* 본인 작성 ReadMe.md
+* 본인 제작한 ppt or pdf 파일
+
+## 프롬프트
+
+ 제작 방향과 자료를 참고해서 내가 제작한 발표 자료 스타일로 ppt 10장 제작해줘.  
+
+
+ 
+
+
+
 # 전주대학교 AI 커리어 점프업 캠프 — Phase 2: 취업용 포트폴리오 PDF 제작
 
 ## Phase 2. 취업용 포트폴리오 PDF 제작
